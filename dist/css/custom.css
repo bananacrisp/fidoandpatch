@@ -1,0 +1,12 @@
+
+h1, h2, h3, h4, h5, p, a {
+	font-family: 'Montserrat', sans-serif;
+}
+
+header {
+	background-color: #FEF4E3;
+}
+
+.logo-image {
+	max-width: 160px;
+}
